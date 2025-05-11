@@ -1,0 +1,9 @@
+# Abaikan folder dataset
+/dataset/
+
+# Abaikan file model sementara
+/models/*.yml
+
+# Abaikan file Python cache
+__pycache__/
+*.pyc
